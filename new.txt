@@ -2,3 +2,4 @@ creating a new file
 again editing file
 hdhd
 err
+undoing changes in error file 
